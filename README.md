@@ -1,3 +1,7 @@
+# School Project from 2019
+Dodge the Creeps tutorial from Godot, with added features.
+Some Copyrighted music was removed from the folders, therefore game might not work in this state.
+
 # Godot3_dodge
 "Dodge the Creeps!"  Godot Engine 3.0 "getting started" game demonstrating the basics.
 

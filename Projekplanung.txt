@@ -1,0 +1,10 @@
+<02.10.18> Projektstart
+>27.11.18> Highscore im Game-over-menu
+>04.12.18> Statistiken als Dictionary/ key-value-Paare 	(Namen beim Start eingeben, Statistiken als Menü anzeigen)[12.12.18]
+
+>09.12.18> UI in containern, I/O 			(Variablen in einzelnem Dokument speichern, veränderbar)
+>16.12.18> Umwandlung zu touch 				(Buttons, MultiTouch, Pfeiltasten, zus.)
+>30.12.18> UI, zusätzliche Spielinhalte 		(Wellen der mobs mit Veränderung des Schwierigkeitsgrads, Leben des Spielers)
+>03.01.19> Bildschirmkompatibilität			(Kompatibilität mit allen Bildschirmgrößen erlauben => Veränderung des mobpaths!?)
+>07.01.19> additional					(cheatcodes, languages, Hintergrund/Umgebung)
+

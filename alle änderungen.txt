@@ -1,0 +1,15 @@
++ !1,2,3,4! fixed
++ added main menu button
++ !5! fixed
++ !6! fixed: main menu added, starting just from there
+[] starting in new version 3.3
++ added EnterNameLineEdit to enter a name before a game
++ !7,8! fixed
++ !9! fixed
++ added PlayerName variable 
++ added LineEdit.text into PlayerName, reset after game
++ added PlayerName into Statistics
+- deleted reset of LineEdit.text after game for game comfort
+[] starting in new version 3.4
++ added the Score missing to the highscore
++ added message when a new highscore is reached

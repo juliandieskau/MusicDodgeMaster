@@ -1,0 +1,29 @@
+<12.12.2018 13:10 gametest before coding>
+	Statistics -> "Du hast bisher keine Spiele gespielt"
+	Return -> Hauptmenu vom Start
+	Start -> Game startet, Steuerung funktioniert, Mobs spawnen, hauptmenu verschwindet
+	signal "hit" -> gameOverMenu startet, erste Statistik wird angezeigt					!1!
+	Statistics -> gameOverMenu verschwindet, returnButton erscheint, erste Statistik bleibt
+	Return -> erste statistik verschwindet wieder, gameOverMenu wird angezeigt
+	start, hit -> statistics angezeigt im gameOverMenu, zwei statistiken angezeigt, beide wert der ersten	!2!
+	start ohne statistics -> statistics bleiben im gui							!3!
+	hit -> dritter wert korrekt, zweiter der des ersten							!4!
+
+<12.12.2018 13:19 gametest after coding>
++ !1,2,3,4! fixed
+> next step: implement name of players for each game
+
+<12.12.2018 13:45 gametest after coding>
++ added main menu button
+	Button doesn't work
+	after leaving stats both startbutton and mainmenubutton shown						!5!
+	showing/hiding works											!6!
+> fix button
+
+<12.12.2018 13:54 gametest after coding>
++ !5! fixed
+
+<12,12,2018 14:04 gametest after coding>
++ !6! fixed: main menu added, starting just from there
+> next step: adding a name before each game to the score from this round, field to write name in in mainmenu
++ starting in new version 3.3

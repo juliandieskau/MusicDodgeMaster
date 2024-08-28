@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Toby Fox Spider Dance Camellia Remix.ogg-fe06fabab1428c082641f7cba85f2c50.oggstr"
+
+[deps]
+
+source_file="res://sounds/Toby Fox Spider Dance Camellia Remix.ogg"
+dest_files=[ "res://.import/Toby Fox Spider Dance Camellia Remix.ogg-fe06fabab1428c082641f7cba85f2c50.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

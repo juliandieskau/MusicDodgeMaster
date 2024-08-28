@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/jungkook- 2u.ogg-c2d62c99cbfb5e00773d86b0ebb1325b.oggstr"
+
+[deps]
+
+source_file="res://sounds/jungkook- 2u.ogg"
+dest_files=[ "res://.import/jungkook- 2u.ogg-c2d62c99cbfb5e00773d86b0ebb1325b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Itro Tobu - Cloud 9.ogg-77a08abcdeb6855dc6aa5926beed44db.oggstr"
+
+[deps]
+
+source_file="res://sounds/Itro Tobu - Cloud 9.ogg"
+dest_files=[ "res://.import/Itro Tobu - Cloud 9.ogg-77a08abcdeb6855dc6aa5926beed44db.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
